@@ -1,0 +1,3 @@
+<routeContext id="all-routes" xmlns="http://camel.apache.org/schema/spring">
+    <route></route>
+</routeContext>
